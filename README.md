@@ -9,7 +9,6 @@
 
 
 ### I am Not Responsible for the Misuse of this Tool !!
-### << I AM NOT RESPONSIBLE FOR MISUSE >>
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## Features :
