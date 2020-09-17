@@ -1,18 +1,18 @@
 # DarkPBF2
-<p align="left">
+<h2><p align="left">
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
+</p></h2>
 
 
 ## Single Command :
 ```
 apt update ; apt install git python python2 -y ; git clone https://github.com/imad009/DarkPBF2 ; cd DarkPBF2 ; python darkpbf.py
 ```
-After that take a new session and enter the command
+After that, take a new session and enter the command
 ```
 pip install bs4
 ```
-Then go 1st session and enter
+Then go to the 1st session and enter
 ```
 python darkpbf.py
 ```
