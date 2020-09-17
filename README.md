@@ -4,7 +4,10 @@
 
 
 
-
+## Single Command :
+```
+apt update ; apt install git python python2 -y ; git clone https://github.com/imad009/DarkPBF2 ; cd DarkPBF2 ; python DarkPBF.py
+```
 
 
 
