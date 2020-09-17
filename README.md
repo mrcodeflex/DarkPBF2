@@ -8,7 +8,7 @@
 ```
 apt update ; apt install git python python2 -y ; git clone https://github.com/imad009/DarkPBF2 ; cd DarkPBF2 ; python darkpbf.py
 ```
-##take new session and enter the command
+After that take a new session and enter the command
 ```
 pip install bs4
 ```
